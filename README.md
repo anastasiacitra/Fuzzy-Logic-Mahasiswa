@@ -1,6 +1,1 @@
-**TUGAS KELOMPOK FUZZY LOGIC**
-
-Kelas PSTI-D
-Anggota:
-1. Anastasia Citra Negara (2255061017)
-2. Al Fatih Naufaldo (2215061092)
+Fuzzy logic is a mathematical approach to dealing with uncertainty and imprecision in reasoning and decision-making. Unlike classical binary logic, which operates in a strict true/false manner, fuzzy logic allows for degrees of truth to be represented, enabling a more nuanced approach to problem-solving. It is based on the concept of fuzzy sets, which generalize traditional set theory to allow for partial membership in a set.
